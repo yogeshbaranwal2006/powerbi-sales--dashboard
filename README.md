@@ -1,1 +1,1 @@
-# powerbi-sales--dashboard
+# powerbi-sales-dashboard
